@@ -1,0 +1,12 @@
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086\Apr8086\bin\Debug\Apr8086.exe
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086\Apr8086\bin\Debug\Apr8086.pdb
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086\Apr8086\obj\x86\Debug\Apr8086.Apr8086_UI.resources
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086\Apr8086\obj\x86\Debug\Apr8086.Properties.Resources.resources
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086\Apr8086\obj\x86\Debug\Apr8086.csproj.GenerateResource.Cache
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086\Apr8086\obj\x86\Debug\Apr8086.exe
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086\Apr8086\obj\x86\Debug\Apr8086.pdb
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086\Apr8086\bin\Debug\Apr8086.exe.config
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086\Apr8086\obj\x86\Debug\Apr8086.csprojResolveAssemblyReference.cache
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086-v2\Apr8086\bin\Debug\Apr8086.exe.config
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086-v2\Apr8086\obj\x86\Debug\Apr8086.exe
+C:\Users\abraxas\Dropbox\8086_dev\Apr8086-v2\Apr8086\obj\x86\Debug\Apr8086.pdb
